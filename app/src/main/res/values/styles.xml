@@ -1,0 +1,17 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.InacapApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Personaliza el tema -->
+        <item name="colorPrimary">#008577</item>
+        <item name="colorPrimaryVariant">#00574B</item>
+        <item name="colorSecondary">#D81B60</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+</resources>
